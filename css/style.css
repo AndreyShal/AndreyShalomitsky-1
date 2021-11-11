@@ -78,6 +78,11 @@ body {
   font-family: Lato;
 }
 
+.about__body {
+  max-width: 823px;
+  margin: 0px auto;
+}
+
 .about__header {
   margin: 0 0 65px 0;
 }
@@ -160,4 +165,8 @@ body {
 
 .item-about__text {
   text-align: center;
+  color: #868585;
+  line-height: 26px;
+  font-weight: 300;
+  font-size: 14px;
 }
