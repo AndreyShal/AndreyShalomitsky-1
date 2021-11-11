@@ -103,7 +103,7 @@ body {
 }
 
 .highlight {
-  background-image: url(/img/highlight/bg_header_743.png);
+  background-image: url(/bem/img/highlight/bg_header_743.png);
   background-repeat: no-repeat;
   block-size: cover;
   background-position: center center;
@@ -168,6 +168,7 @@ body {
 .highlight__basement {
   margin: 165px 0px 0px 0px;
   position: relative;
+  left: 38%;
 }
 .item-highlight__title {
   border: 1px solid #ffffff;
@@ -186,7 +187,7 @@ body {
   color: #ffffff;
 }
 .item-highlight__icon2 {
-  bottom: 153px;
+  margin: 153px 0 0 0;
 }
 .item-highlight__icon2 img {
   width: 17px;
