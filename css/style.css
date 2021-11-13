@@ -413,3 +413,80 @@ body {
 }
 .itemPartners img {
 }
+/* /////////////////////////////////////////////////////////////////////////////////////////////// */
+/* /////////////////////////////////////////////////////////////////////////////////////////////// */
+/* /////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.contact {
+  margin: 0 auto;
+  width: 900px;
+  min-height: 100px;
+}
+.contactTitle {
+  margin-top: 183px;
+  margin-bottom: 50px;
+}
+.contactTitle h1 {
+  font-size: 34px;
+  line-height: 1.2;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: #000000;
+}
+.lincontact {
+  margin-bottom: 70px;
+}
+.containerContact {
+  height: 493px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.boxContact {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 383px;
+  height: 300px;
+}
+.contactName {
+  align-items: start;
+  height: 69px;
+  width: 161px;
+}
+.contactInput {
+  width: 151px;
+  height: 35px;
+  background-color: #f8f7f7;
+}
+.contactEmail {
+  width: 161px;
+  height: 45px;
+}
+.contactMessage {
+  height: 162px;
+}
+.contactInput2 {
+  width: 383px;
+  height: 118px;
+  background-color: #f8f7f7;
+}
+.lettersContact {
+  left: 0;
+}
+.feedback {
+  width: 252px;
+  /* height: 196px; */
+}
+.toHelp {
+}
+.surnameName {
+}
+.socialNetworks {
+}
+.socNetLogo {
+}
+.mail {
+}
