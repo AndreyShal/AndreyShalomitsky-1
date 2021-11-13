@@ -474,7 +474,10 @@ body {
   background-color: #f8f7f7;
 }
 .lettersContact {
-  left: 0;
+  margin-bottom: 10px;
+  text-align: left;
+}
+.lettersContact span {
 }
 .feedback {
   width: 252px;
