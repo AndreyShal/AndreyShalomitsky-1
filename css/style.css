@@ -105,7 +105,7 @@ body {
 }
 
 .highlight {
-  background-image: url(img/highlight/bg_header_743.png);
+  background-image: url(../img/highlight/bg_header_743.png);
   background-repeat: no-repeat;
   block-size: cover;
   background-position: center center;
@@ -378,7 +378,7 @@ body {
 /* //////////////////////////////////////////////////////////////////////////////////// */
 
 .partners {
-  background-image: url(img/partners/bg_header_copy_884.png);
+  background-image: url(../img/partners/bg_header_copy_884.png);
   background-repeat: no-repeat;
   block-size: cover;
   background-position: center center;
@@ -540,7 +540,7 @@ body {
   margin: 0 auto;
   min-height: 100px;
   height: 274px;
-  background-image: url(img/footer/background_161.png);
+  background-image: url(../img/footer/background_161.png);
   background-repeat: no-repeat;
   block-size: cover;
   background-position: center center;
