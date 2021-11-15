@@ -105,7 +105,7 @@ body {
 }
 
 .highlight {
-  background-image: url(../img/highlight/bg_header_743.png);
+  background-image: url(./img/highlight/bg_header_743.png);
   background-repeat: no-repeat;
   block-size: cover;
   background-position: center center;
