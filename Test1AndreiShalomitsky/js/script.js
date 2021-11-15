@@ -1,1 +1,0 @@
-function dynamic_adapt() { }
